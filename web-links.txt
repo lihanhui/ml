@@ -14,3 +14,10 @@ http://cs231n.github.io/convolutional-networks/
 http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf - excellent review on CNN arch
 https://zhuanlan.zhihu.com/p/36290556 -面试的问题，可以作为一个指导
 https://www.cnblogs.com/bonelee/p/8972139.html 
+https://www.open-open.com/lib/view/open1452776149855.html
+https://www.urlteam.org/2017/07/cnn%e7%bb%93%e6%9e%84%e6%a8%a1%e5%9e%8b%e4%b8%80%e5%8f%a5%e8%af%9d%e6%a6%82%e8%bf%b0%ef%bc%9a%e4%bb%8elenet%e5%88%b0shufflenet/
+https://www.cnblogs.com/skyfsm/p/6806246.html
+
+https://www.jessicayung.com/explaining-tensorflow-code-for-a-convolutional-neural-network/
+https://blog.csdn.net/u010089444/article/details/76725843
+https://sevenold.github.io/2018/09/Pytorch-GoogleNet/
