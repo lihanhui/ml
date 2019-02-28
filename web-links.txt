@@ -10,3 +10,5 @@ https://adventuresinmachinelearning.com/
 https://www.tuicool.com/articles/aUZ3q2r 
 http://www.jessicayung.com/code-explained-training-a-model-in-tensorflow/
 http://cs231n.github.io/convolutional-networks/
+
+http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf - excellent review on CNN arch
