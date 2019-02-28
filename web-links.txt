@@ -13,3 +13,4 @@ http://cs231n.github.io/convolutional-networks/
 
 http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf - excellent review on CNN arch
 https://zhuanlan.zhihu.com/p/36290556 -面试的问题，可以作为一个指导
+https://www.cnblogs.com/bonelee/p/8972139.html 
