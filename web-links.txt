@@ -2,3 +2,11 @@ http://www.sohu.com/a/134314399_465975
 https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py
 https://en.wikipedia.org/wiki/Capsule_neural_network
 https://arxiv.org/pdf/1710.07035.pdf
+
+self-supervised  Yann Lecun
+ 小样本/泛化       Ng
+
+https://adventuresinmachinelearning.com/
+https://www.tuicool.com/articles/aUZ3q2r 
+http://www.jessicayung.com/code-explained-training-a-model-in-tensorflow/
+http://cs231n.github.io/convolutional-networks/
