@@ -21,3 +21,6 @@ https://www.cnblogs.com/skyfsm/p/6806246.html
 https://www.jessicayung.com/explaining-tensorflow-code-for-a-convolutional-neural-network/
 https://blog.csdn.net/u010089444/article/details/76725843
 https://sevenold.github.io/2018/09/Pytorch-GoogleNet/
+
+http://baijiahao.baidu.com/s?id=1601882944953788623&wfr=spider&for=pc
+googLeNet比较好的介绍
