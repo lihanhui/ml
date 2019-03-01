@@ -31,3 +31,5 @@ https://blog.csdn.net/xyfengbo/article/details/70227173
 
 From resnet to nasnet
 https://www.cnblogs.com/bonelee/p/9029934.html
+
+https://www.learnopencv.com/batch-normalization-in-deep-networks/
