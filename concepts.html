@@ -1,19 +1,31 @@
 <!DOCTYPE html>
 <html>
+
+<head>
+<meta charset="utf-8">
+<title>Basic Concepts on Artificial Intelligence</title>
+</head>
+
 <body>
 
-<h1>My First Heading</h1>
+<h2>false positive etc.</h2>
+<p>false positive（FP）: indicates presence of a condition when in reality it is not present - 误诊为有病</p>
+<p>false negative（FN）: indicates no presence of a condition (the result is negative), when in reality it is present - 误诊为无病</p>
+<p>true positive（TP）: 正确的判定为有病</p>
+<p>true negative（TN）: 正确的判定为无病</p>
 
-<p>My first paragraph.</p>
-false positive（FP）: indicates presence of a condition when in reality it is not present - 误诊为有病
-false negative（FN）: indicates no presence of a condition (the result is negative), when in reality it is present - 误诊为无病
-true positive（TP）: 正确的判定为有病
-true negative（TN）: 正确的判定为无病
-
-1) mAP
-1.1 IoU
-Intersection over Union is a ratio between the intersection and the union of the predicted boxes and the ground truth boxes.
+<h2>mAP</h2>
+<h3>IoU</h3>
+<p>Intersection over Union is a ratio between the intersection and the union of the predicted boxes and the ground truth boxes.
 <img src="https://cdn-images-1.medium.com/max/800/0*hQz4WpRd2JqTE-Rm.png">
-<img src="https://cdn-images-1.medium.com/max/800/0*2LNZGR93ZZDUyiGr.png"> 
+<img src="https://cdn-images-1.medium.com/max/800/0*2LNZGR93ZZDUyiGr.png"> </p>
+
+<h3>Precision and Recall</h3>
+<p>Precision = TP/(TP+FP) <br>
+Recall = TP/(TP+FN)</p>
+
+<h3>mAP</h3>
+<p>The AP (average precision) is defined as the mean of the Precision values at these chosen N Recall values. </p>
+<p>The mAP hence is the Mean of all the Average Precision values across all your classes</p>
 </body>
 </html>
