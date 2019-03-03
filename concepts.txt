@@ -1,0 +1,4 @@
+false positive: indicates presence of a condition when in reality it is not present - 误诊为有病
+false negative: indicates no presence of a condition (the result is negative), when in reality it is present - 误诊为无病
+true positive: 正确的判定为有病
+true negative: 正确的判定为无病 

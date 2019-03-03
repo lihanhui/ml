@@ -40,3 +40,8 @@ https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
 https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
 https://blog.csdn.net/gentelyang/article/details/80469553
 https://imlogm.github.io/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/rcnn/
+
+REINFOCEMENT-Learning
+https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html
+https://skymind.ai/wiki/deep-reinforcement-learning
+
