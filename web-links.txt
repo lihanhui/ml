@@ -45,3 +45,6 @@ REINFOCEMENT-Learning
 https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html
 https://skymind.ai/wiki/deep-reinforcement-learning
 
+Object Detection
+https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93
+https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439
