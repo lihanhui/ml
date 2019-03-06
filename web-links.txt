@@ -48,3 +48,10 @@ https://skymind.ai/wiki/deep-reinforcement-learning
 Object Detection
 https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93
 https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439
+
+Ross Girshick from facebook （RCNN+Yolo） + He Kaiming (ResNet + RCNN) etc
+http://www.rossgirshick.info/#girshick2014rcnn
+
+PyTorch internal
+1) http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/
+2) https://pytorch.org/blog/a-tour-of-pytorch-internals-1/
